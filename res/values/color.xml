@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="purpel_main">#673AB7</color>  
+    <color name="white">#ffffff</color>
+    <color name="black_dull">#455A64</color>
+    <color name="blue">#2196F3</color>
+    <color name="grey">#616161</color>
+    <color name="black">#000000</color>
+    <color name="line">#E0E0E0</color>
+    <color name="lightblue">#03A9F4</color>
+    <color name="teal">#607D8B</color>
+</resources>
